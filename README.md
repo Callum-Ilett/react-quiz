@@ -1,4 +1,4 @@
-![React Quiz](https://callumilett.com/uploads/react-quiz.png)
+![React Quiz](https://callumilett.com/uploads/react-quiz.jpg)
 
 Technologies used:
 
